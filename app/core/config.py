@@ -6,9 +6,11 @@ class Settings(BaseSettings):
     api_version: str = "v1"
     debug: bool = True
 
-    model_config = {
-        "env_file": ".env"
-    }
+    SECRET_KEY: str
+    ACCESS_TOKEN_EXPIRE_MINUTES: int = 30
+
+    class Config:
+        env_file = ".env"
 
 
 settings = Settings()
