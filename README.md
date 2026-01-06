@@ -4,8 +4,13 @@ A **production-grade backend system** built with **FastAPI**, designed using **F
 
 > Built to demonstrate real-world backend engineering skills for SDE / Backend roles.
 
----
+---------
+## 📸 Project Demo
 
+<img width="1085" height="962" alt="demo" src="https://github.com/user-attachments/assets/764017a2-1fd0-42e9-b02c-95f7391567bd" />
+
+
+----------
 ## ✨ Features
 
 - ✅ FastAPI with Pydantic v2
@@ -223,6 +228,7 @@ Backend / Software Engineer
 GitHub: https://github.com/bathinishashipreetham
 
 ⭐ If you found this project useful, consider starring it!
+
 
 
 
